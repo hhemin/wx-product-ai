@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "page/demo"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "微信AI图片标签",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "sitemapLocation": "sitemap.json"
+}
